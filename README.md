@@ -242,6 +242,14 @@ All card faces are drawn by the app itself (original SVG shapes and text glyphs)
 
 See the [roadmap](ROADMAP.md) for what has been done and what comes next.
 
+<br>
+
+<div align="center">
+  <h3>Dedicated with love to Simona ❤️</h3>
+</div>
+
+<br>
+
 <a href="https://github.com/R0mb0/Crafted_with_AI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Crafted_with_AI/blob/main/Badge/SVG/CraftedWithAIDark.svg">
